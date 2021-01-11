@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.page {
+  width: 800px;
+  align-items: center;
+}
+
+body {
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  color: black
+  
+}
+a:link {
+  color: #5D6063;
+  text-decoration: none;
+}
+a:visited {
+  color: #5D6063;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline  #ae8319 2px;
+
+}
+.header {
+  position:fixed;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 225px;
+  z-index: 2;
+  background:white;
+  color: #ae8319; 
+ }
+
+ .menu {
+   margin-bottom: 10px;
+   position: absolute;
+   bottom: 0;
+   
+ }
+
+ .menu > li {
+   display: inline;
+   margin-right: 50px;
+ }
+
+ .menu > li:last-of-type {
+   margin-right: 0;
+ }
+ .container {
+  float:none;
+  position: relative;
+  top: 250px;
+  width: 700px;
+  margin: 0px auto;
+  align-items: center;
+ }
+
+.favorites {
+  float:none;
+  position: relative;
+  top: 250px;
+  width: 650px;
+  height: auto;
+  color: #ae8319;
+  text-align: center;
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+
+}
+
+.photo-grid-container {
+  float:none;
+  position: relative;
+  top: 300px;
+  width: 650px;
+  text-align: center;
+  margin: 0px auto;
+  display: flex;
+  justify-content: center;
+
+}
+
+.photo-grid {
+  display: flex;
+  width: 400px;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.photo-grid-item { 
+  width: 125px;
+  margin: 2px;
+
+}
+
+.photo-grid-item img {
+  vertical-align: middle;
+}
+
+.caption {
+    width: 200px;
+    height: 90px;
+    background:#FFF;
+    border: 3px solid #5D6063;
+    opacity:0; 
+    position: absolute;
+    left: 230px;
+    top: 80px;
+}
+
+.photo-grid-item:hover .caption { 
+    opacity: 1;
+    text-align: center;
+    color:#000000;
+    font-size: 16px;
+    font-weight: 700;
+    font-family:'Courier New', Courier, monospace;
+    padding: 5px;
+}
+
+.container ul {
+  list-style-type: none;
+}
+.container h2 {
+  text-align: center;
+  color: #ae8319;
+}
+.container p {
+  text-indent: 20px;
+  text-align: left;
+  font-size: 20px;
+}
+.container ol {
+   text-align: left;
+   font-size: 20px;
+}
+
+
