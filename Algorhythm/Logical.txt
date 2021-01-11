@@ -1,0 +1,30 @@
+God: radiant image
+Family: heart
+Health: heart rate monitor
+Minimalism: empty cube
+Learning: Brain
+Action: Lightning bolt
+
+      <ul>
+        <li><strong>God</strong></li>
+        <li><em>Revealed in 1993 - the source of everything in my life.</em></li>
+        <li><strong>Family</strong></li>
+        <li><em>My wife, a gift from God, and my wonderful, crazy boys.</em></li>
+        <li><strong>Minimalism</strong></li>
+        <li><em>Use only the things that provide value in my life.</em></li>
+        <li><strong>Keto and IF</strong></li>
+        <li><em>Keto, intermittent fasting, and allowed slips. Finally: balance!</em></li>
+        <li><strong>Processes</strong></li>
+        <li><em>I love processes that work. I will change or recreate if they don't.</em></li>
+        <li><strong>Decisions</strong></li>
+        <li><em>If you don't want to make a decision, I will. Why miss an opportunity to grow?</em></li>
+        <li><strong>Doing</strong></li>
+        <li><em>Action is King. Take action, produce, DO.</em></li>
+        <li><strong>Learning</strong></li>
+        <li><em>Now that I have time, I am an information addict.</em></li>
+        <li><strong>A New Beginning</strong></li>
+        <li><em>Tranistioning after 30 years in the Navy. My next grand adventure!</em></li><br>
+       </ul>
+
+Exploded bike:
+<iframe src="https://giphy.com/embed/TlK63EPYTCOMhJal7u8" width="480" height="387" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alcrego-loop-eternal-TlK63EPYTCOMhJal7u8">via GIPHY</a></p>
